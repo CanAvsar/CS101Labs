@@ -1,0 +1,4 @@
+The sum of 5 numbers is 57.
+The average of 5 numbers is 11.0.
+The maximum number is 27.
+The minimum number is 2.

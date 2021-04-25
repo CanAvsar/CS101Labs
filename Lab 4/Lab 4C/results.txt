@@ -1,0 +1,4 @@
+The sum of 71 numbers is 3815.
+The average of 71 numbers is 53.0.
+The maximum number is 98.
+The minimum number is 2.
